@@ -31,6 +31,7 @@
  <xi:include href="admin_security.xml"/>
  <xi:include href="admin_administration.xml"/>
  <xi:include href="admin_software.xml"/>
+ <xi:include href="admin_backup.xml"/>
  <xi:include href="admin_monitoring.xml"/>
  <xi:include href="admin_misc.xml"/>
  <xi:include href="admin_integration_ses.xml"/>
